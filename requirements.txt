@@ -1,0 +1,8 @@
+flake8
+mypy
+pandas
+streamlit
+altair
+lyricsgenius
+wordcloud
+stop_words
